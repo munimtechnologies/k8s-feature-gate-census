@@ -1,0 +1,7581 @@
+[
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 9,
+   "stable": 29
+  },
+  "last": 32,
+  "name": "APIListChunking",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 20,
+   "stable": 29
+  },
+  "last": 30,
+  "name": "APIPriorityAndFairness",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 16
+  },
+  "last": 16,
+  "name": "APIResponseCompression",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "APISelfSubjectReview",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 26
+  },
+  "last": 26,
+  "name": "APIServerIdentity",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 27,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "APIServerTracing",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "APIServerWebhookAuthenticationToken",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30
+  },
+  "last": 30,
+  "name": "APIServingWithRoutine",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 6,
+   "deprecated": 11
+  },
+  "last": 11,
+  "name": "Accelerators",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 28,
+   "stable": 30
+  },
+  "last": 32,
+  "name": "AdmissionWebhookMatchConditions",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 7,
+   "beta": 8,
+   "stable": 12
+  },
+  "last": 27,
+  "name": "AdvancedAuditing",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 6,
+   "deprecated": 8
+  },
+  "last": 8,
+  "name": "AffinityInAnnotations",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 30
+  },
+  "last": 32,
+  "name": "AggregatedDiscoveryEndpoint",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": false
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 31
+  },
+  "last": 31,
+  "name": "AllowDNSOnlyNodeCSR",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 4,
+   "stable": 7
+  },
+  "last": 9,
+  "name": "AllowExtTrafficLocalEndpoints",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 17,
+   "stable": 21
+  },
+  "last": 25,
+  "name": "AllowInsecureBackendProxy",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": false
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 31
+  },
+  "last": 31,
+  "name": "AllowInsecureKubeletCertificateSigningRequests",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34
+  },
+  "last": 34,
+  "name": "AllowParsingUserUIDFromCertAuth",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": true
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 36
+  },
+  "last": 36,
+  "name": "AllowServiceExternalIPs",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "deprecated": false
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 29
+  },
+  "last": 34,
+  "name": "AllowServiceLBStatusOnNonLB",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "AllowUnsafeMalformedObjectDeletion",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 32,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "AnonymousAuthConfigurableEndpoints",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 24,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "AnyVolumeDataSource",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 4,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "AppArmor",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 30,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "AppArmorFields",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "AtomicFIFO",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "AtomicWriteVolumeUserFields",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 12,
+   "stable": 17
+  },
+  "last": 21,
+  "name": "AttachVolumeLimit",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 32,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "AuthorizeNodeWithSelectors",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 35
+  },
+  "last": 35,
+  "name": "AuthorizePodWebsocketUpgradeCreatePermission",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 32,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "AuthorizeWithSelectors",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "deprecated": 22
+  },
+  "last": 22,
+  "name": "BalanceAttachedNodeVolumes",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "beta": 13,
+   "stable": 18
+  },
+  "last": 21,
+  "name": "BlockVolume",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 13,
+   "beta": 21,
+   "stable": 22
+  },
+  "last": 23,
+  "name": "BoundServiceAccountTokenVolume",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 32,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "BtreeWatchCache",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32
+  },
+  "last": 32,
+  "name": "CBORServingAndStorage",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 10,
+   "stable": 26
+  },
+  "last": 32,
+  "name": "CPUManager",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23
+  },
+  "last": 23,
+  "name": "CPUManagerPolicyAlphaOptions",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 23
+  },
+  "last": 23,
+  "name": "CPUManagerPolicyBetaOptions",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 23,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "CPUManagerPolicyOptions",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 35
+  },
+  "last": 35,
+  "name": "CRDObservedGenerationTracking",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 30,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "CRDValidationRatcheting",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 10,
+   "beta": 11,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "CRIContainerLogRotation",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "CRIListStreaming",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 14,
+   "stable": 18
+  },
+  "last": 21,
+  "name": "CSIBlockVolume",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 14,
+   "stable": 18
+  },
+  "last": 21,
+  "name": "CSIDriverRegistry",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 16,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "CSIInlineVolume",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 17,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "CSIMigration",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 17,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "CSIMigrationAWS",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 17,
+   "deprecated": 21
+  },
+  "last": 21,
+  "name": "CSIMigrationAWSComplete",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 19,
+   "stable": 24
+  },
+  "last": 26,
+  "name": "CSIMigrationAzureDisk",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 17,
+   "deprecated": 21
+  },
+  "last": 21,
+  "name": "CSIMigrationAzureDiskComplete",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 21,
+   "stable": 26
+  },
+  "last": 29,
+  "name": "CSIMigrationAzureFile",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 17,
+   "deprecated": 21
+  },
+  "last": 21,
+  "name": "CSIMigrationAzureFileComplete",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 17,
+   "stable": 25
+  },
+  "last": 27,
+  "name": "CSIMigrationGCE",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 17,
+   "deprecated": 21
+  },
+  "last": 21,
+  "name": "CSIMigrationGCEComplete",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 18,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "CSIMigrationOpenStack",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 17,
+   "deprecated": 21
+  },
+  "last": 21,
+  "name": "CSIMigrationOpenStackComplete",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 25,
+   "stable": 33
+  },
+  "last": 35,
+  "name": "CSIMigrationPortworx",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "deprecated": 28
+  },
+  "last": 30,
+  "name": "CSIMigrationRBD",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 19,
+   "stable": 26
+  },
+  "last": 28,
+  "name": "CSIMigrationvSphere",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": false,
+   "deprecated": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 19,
+   "deprecated": 22
+  },
+  "last": 22,
+  "name": "CSIMigrationvSphereComplete",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27,
+   "stable": 29
+  },
+  "last": 30,
+  "name": "CSINodeExpandSecret",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 14,
+   "stable": 17
+  },
+  "last": 22,
+  "name": "CSINodeInfo",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "beta": 10,
+   "stable": 13
+  },
+  "last": 16,
+  "name": "CSIPersistentVolume",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 21,
+   "stable": 22
+  },
+  "last": 24,
+  "name": "CSIServiceAccountToken",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 35,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "CSIServiceAccountTokenSecrets",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 21,
+   "stable": 24
+  },
+  "last": 27,
+  "name": "CSIStorageCapacity",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 20,
+   "stable": 23
+  },
+  "last": 25,
+  "name": "CSIVolumeFSGroupPolicy",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 21,
+  "name": "CSIVolumeHealth",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "CSRDuration",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": false
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 35
+  },
+  "last": 35,
+  "name": "ChangeContainerStatusOnKubeletRestart",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "ClearingNominatedNodeNameAfterBinding",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35
+  },
+  "last": 35,
+  "name": "CloudControllerManagerWatchBasedRoutesReconciliation",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27
+  },
+  "last": 27,
+  "name": "CloudControllerManagerWebhook",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 29,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "CloudDualStackNodeIPs",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 33,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "ClusterTrustBundle",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 33,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "ClusterTrustBundleProjection",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "ComponentFlagz",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 32
+  },
+  "last": 34,
+  "name": "ComponentSLIs",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "ComponentStatusz",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "CompositePodGroup",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 31
+  },
+  "last": 37,
+  "name": "ConcurrentWatchObjectDecode",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 20,
+   "stable": 23
+  },
+  "last": 25,
+  "name": "ConfigurableFSGroupPolicy",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "stable": true
+  },
+  "entry": "stable",
+  "first": {
+   "stable": 25
+  },
+  "last": 30,
+  "name": "ConsistentHTTPGetHandlers",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 31,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "ConsistentListFromCache",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "ConstrainedImpersonation",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 30
+  },
+  "last": 30,
+  "name": "ContainerCheckpoint",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "ContainerRestartRules",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33
+  },
+  "last": 33,
+  "name": "ContainerStopSignals",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24,
+   "beta": 30
+  },
+  "last": 30,
+  "name": "ContextualLogging",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 26,
+  "name": "ControllerManagerLeaderMigration",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "ControllerManagerReleaseLeaderElectionLockOnExit",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 33
+  },
+  "last": 33,
+  "name": "CoordinatedLeaderElection",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 21,
+   "stable": 22
+  },
+  "last": 23,
+  "name": "CronJobControllerV2",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24,
+   "beta": 25,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "CronJobTimeZone",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 28,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "CronJobsScheduledAnnotation",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26
+  },
+  "last": 26,
+  "name": "CrossNamespaceVolumeDataSource",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12
+  },
+  "last": 12,
+  "name": "CustomCPUCFSQuotaPeriod",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "beta": 10,
+   "stable": 14
+  },
+  "last": 16,
+  "name": "CustomPodDNS",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 16,
+   "stable": 17
+  },
+  "last": 18,
+  "name": "CustomResourceDefaulting",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 31,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "CustomResourceFieldSelectors",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 15,
+   "stable": 16
+  },
+  "last": 18,
+  "name": "CustomResourcePublishOpenAPI",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 10,
+   "beta": 11,
+   "stable": 16
+  },
+  "last": 18,
+  "name": "CustomResourceSubresources",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 9,
+   "stable": 16
+  },
+  "last": 18,
+  "name": "CustomResourceValidation",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 25,
+   "stable": 29
+  },
+  "last": 30,
+  "name": "CustomResourceValidationExpressions",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 13,
+   "beta": 15,
+   "stable": 16
+  },
+  "last": 18,
+  "name": "CustomResourceWebhookConversion",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "DRAAdminAccess",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "DRAConsumableCapacity",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26
+  },
+  "last": 31,
+  "name": "DRAControlPlaneController",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "DRADerivedAttributes",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "DRADeviceBindingConditions",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "DRADeviceCompatibilityGroups",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "DRADeviceTaintRules",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 36,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "DRADeviceTaints",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 36,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "DRAExtendedResource",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "DRAListTypeAttributes",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "DRANodeAllocatableResources",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "DRAOptionalNodeOperations",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "DRAPartitionableDevices",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "DRAPartitionableDevicesType",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "DRAPrioritizedList",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 33,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "DRAResourceClaimDeviceStatus",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "DRAResourceClaimGranularStatusAuthorization",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "DRAResourcePoolStatus",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34
+  },
+  "last": 34,
+  "name": "DRASchedulerFilterTimeout",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "DRAWorkloadResourceClaims",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "DaemonSetUpdateSurge",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 33,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "DeclarativeValidation",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "DeclarativeValidationBeta",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "beta": false,
+   "deprecated": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 33,
+   "deprecated": 36
+  },
+  "last": 37,
+  "name": "DeclarativeValidationTakeover",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "deprecated": false
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 28
+  },
+  "last": 30,
+  "name": "DefaultHostNetworkHostPortsInPodTemplates",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "DefaultPodSysctls",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 20,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "DefaultPodTopologySpread",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 23,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "DelegateFSGroupToCSIDriver",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "DeploymentReplicaSetTerminatingReplicas",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "DetectCacheInconsistency",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 31
+  },
+  "last": 33,
+  "name": "DevicePluginCDIDevices",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 10,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "DevicePlugins",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 20,
+   "stable": 25
+  },
+  "last": 27,
+  "name": "DisableAcceleratorUsageMetrics",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 33,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "DisableAllocatorDualWrite",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 33
+  },
+  "last": 33,
+  "name": "DisableCPUQuotaWithExclusiveCPUs",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 29,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "DisableCloudProviders",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 29,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "DisableKubeletCloudCredentialProviders",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 31,
+   "deprecated": 31
+  },
+  "last": 36,
+  "name": "DisableNodeKubeProxyVersion",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 21,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "DownwardAPIHugePages",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 13,
+   "stable": 19
+  },
+  "last": 27,
+  "name": "DryRun",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 13,
+   "deprecated": 19
+  },
+  "last": 19,
+  "name": "DynamicAuditing",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 4,
+   "beta": 11,
+   "deprecated": 22
+  },
+  "last": 25,
+  "name": "DynamicKubeletConfig",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "deprecated": 12
+  },
+  "last": 12,
+  "name": "DynamicProvisioningScheduling",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 32,
+   "stable": 34
+  },
+  "last": 35,
+  "name": "DynamicResourceAllocation",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 3,
+   "stable": 8
+  },
+  "last": 12,
+  "name": "DynamicVolumeProvisioning",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 21,
+   "stable": 24
+  },
+  "last": 32,
+  "name": "EfficientWatchResumption",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 27,
+   "stable": 31
+  },
+  "last": 31,
+  "name": "ElasticIndexedJob",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "EmptyDirVolumeMode",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "deprecated": true
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 16
+  },
+  "last": 17,
+  "name": "EnableAggregatedDiscoveryTimeout",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "deprecated": 13
+  },
+  "last": 23,
+  "name": "EnableEquivalenceClassCache",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 17,
+   "stable": 21
+  },
+  "last": 24,
+  "name": "EndpointSlice",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "stable": 21
+  },
+  "last": 24,
+  "name": "EndpointSliceNodeName",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 19,
+   "stable": 22
+  },
+  "last": 24,
+  "name": "EndpointSliceProxying",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 22,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "EndpointSliceTerminatingCondition",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "EnvFiles",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 23,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "EphemeralContainers",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 37
+  },
+  "last": 37,
+  "name": "EtcdRangeStream",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 18,
+   "stable": 19
+  },
+  "last": 21,
+  "name": "EvenPodsSpread",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26
+  },
+  "last": 26,
+  "name": "EventedPLEG",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 37
+  },
+  "last": 37,
+  "name": "ExcludeAdmissionWebhookVirtualResources",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "stable": true
+  },
+  "entry": "stable",
+  "first": {
+   "stable": 20
+  },
+  "last": 20,
+  "name": "ExecProbeTimeout",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 16,
+   "stable": 24
+  },
+  "last": 26,
+  "name": "ExpandCSIVolumes",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 15,
+   "stable": 24
+  },
+  "last": 26,
+  "name": "ExpandInUsePersistentVolumes",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 11,
+   "stable": 24
+  },
+  "last": 26,
+  "name": "ExpandPersistentVolumes",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 26,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "ExpandedDNSConfig",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 5,
+   "deprecated": 13
+  },
+  "last": 16,
+  "name": "ExperimentalCriticalPodAnnotation",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": false,
+   "deprecated": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 5,
+   "deprecated": 28
+  },
+  "last": 29,
+  "name": "ExperimentalHostUserNamespaceDefaulting",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "ExtendWebSocketsToKubelet",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "stable": true
+  },
+  "entry": "stable",
+  "first": {
+   "stable": 18
+  },
+  "last": 22,
+  "name": "ExternalPolicyForExternalIP",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "ExternalServiceAccountTokenSigner",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 10,
+   "stable": 13
+  },
+  "last": 16,
+  "name": "GCERegionalPersistentDisk",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 24,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "GRPCContainerProbe",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "GRPCContainerProbeTLS",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35
+  },
+  "last": 36,
+  "name": "GangScheduling",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 21,
+   "stable": 23
+  },
+  "last": 24,
+  "name": "GenericEphemeralVolume",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "GenericWorkload",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": false
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 33
+  },
+  "last": 33,
+  "name": "GitRepoVolumeDriver",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 21
+  },
+  "last": 21,
+  "name": "GracefulNodeShutdown",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 24
+  },
+  "last": 24,
+  "name": "GracefulNodeShutdownBasedOnPodPriority",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "H2CContainerProbe",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 35,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "HPAConfigurableTolerance",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 27,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "HPAContainerMetrics",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "HPAScaleToZero",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 35,
+  "name": "HonorPVReclaimPolicy",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 35,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "HostnameOverride",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 19,
+   "stable": 22
+  },
+  "last": 24,
+  "name": "HugePageStorageMediumSize",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 10,
+   "stable": 14
+  },
+  "last": 16,
+  "name": "HugePages",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 37
+  },
+  "last": 37,
+  "name": "HugepageAwareEviction",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 10,
+   "deprecated": 20
+  },
+  "last": 20,
+  "name": "HyperVContainer",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "IPTablesOwnershipCleanup",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 21,
+   "stable": 23
+  },
+  "last": 24,
+  "name": "IPv6DualStack",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 24,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "IdentifyPodOS",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 35
+  },
+  "last": 35,
+  "name": "ImageMaximumGCAge",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 33,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "ImageVolume",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35
+  },
+  "last": 35,
+  "name": "ImageVolumeWithDigest",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 19,
+   "stable": 21
+  },
+  "last": 24,
+  "name": "ImmutableEphemeralVolumes",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": true,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34
+  },
+  "last": 34,
+  "name": "InOrderInformers",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "InPlacePodLevelResourcesVerticalScaling",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 33,
+   "stable": 35
+  },
+  "last": 35,
+  "name": "InPlacePodVerticalScaling",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "deprecated": 33
+  },
+  "last": 33,
+  "name": "InPlacePodVerticalScalingAllocatedStatus",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32
+  },
+  "last": 32,
+  "name": "InPlacePodVerticalScalingExclusiveCPUs",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34
+  },
+  "last": 34,
+  "name": "InPlacePodVerticalScalingExclusiveMemory",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "InPlacePodVerticalScalingMemoryBackedVolumes",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "InPlacePodVerticalScalingSchedulerPreemption",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 30,
+  "name": "InTreePluginAWSUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 30,
+  "name": "InTreePluginAzureDiskUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 30,
+  "name": "InTreePluginAzureFileUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 30,
+  "name": "InTreePluginGCEUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 30,
+  "name": "InTreePluginOpenStackUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23
+  },
+  "last": 35,
+  "name": "InTreePluginPortworxUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "deprecated": 28
+  },
+  "last": 30,
+  "name": "InTreePluginRBDUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 30,
+  "name": "InTreePluginvSphereUnregister",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "IndexedJob",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "stable": 35
+  },
+  "last": 35,
+  "name": "InformerResourceVersion",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 23
+  },
+  "last": 24,
+  "name": "IngressClassNamespacedParams",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 7,
+   "deprecated": 14
+  },
+  "last": 14,
+  "name": "Initializers",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "JobBackoffLimitPerIndex",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 32,
+   "stable": 35
+  },
+  "last": 35,
+  "name": "JobManagedBy",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 23,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "JobMutableNodeSchedulingDirectives",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 26,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "JobPodFailurePolicy",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "JobPodReplacementPolicy",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 24,
+   "stable": 29
+  },
+  "last": 30,
+  "name": "JobReadyPods",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "JobSuccessPolicy",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 23,
+   "stable": 26
+  },
+  "last": 28,
+  "name": "JobTrackingWithFinalizers",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": true
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 28
+  },
+  "last": 29,
+  "name": "KMSv1",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27,
+   "stable": 29
+  },
+  "last": 31,
+  "name": "KMSv2",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 28,
+   "stable": 29
+  },
+  "last": 31,
+  "name": "KMSv2KDF",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 30,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "KubeProxyDrainingTerminatingNodes",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "deprecated": true
+  },
+  "entry": "deprecated",
+  "first": {
+   "deprecated": 37
+  },
+  "last": 37,
+  "name": "KubeProxyIPVS",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "KubeProxyNFTablesLocalhostNodePorts",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 31,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "KubeletCgroupDriverFromCRI",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "deprecated": 10
+  },
+  "last": 10,
+  "name": "KubeletConfigFile",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "KubeletCrashLoopBackOffMax",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 24,
+   "stable": 26
+  },
+  "last": 28,
+  "name": "KubeletCredentialProviders",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "KubeletEnsureSecretPulledImages",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 33,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "KubeletFineGrainedAuthz",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "KubeletInUserNamespace",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "KubeletPSI",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 12,
+   "stable": 13
+  },
+  "last": 16,
+  "name": "KubeletPluginsWatcher",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 13,
+   "beta": 15,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "KubeletPodResources",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "KubeletPodResourcesDynamicResources",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "KubeletPodResourcesGet",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 23,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "KubeletPodResourcesGetAllocatable",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 31
+  },
+  "last": 31,
+  "name": "KubeletSeparateDiskGC",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34
+  },
+  "last": 34,
+  "name": "KubeletServiceAccountTokenForCredentialProviders",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "KubeletTracing",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 19,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "LegacyNodeRoleBehavior",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "LegacyServiceAccountTokenCleanUp",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 24,
+   "stable": 26
+  },
+  "last": 28,
+  "name": "LegacyServiceAccountTokenNoAutoGeneration",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "LegacyServiceAccountTokenTracking",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34
+  },
+  "last": 34,
+  "name": "ListFromCacheSnapshot",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 32
+  },
+  "last": 34,
+  "name": "LoadBalancerIPMode",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 7,
+   "beta": 10,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "LocalStorageCapacityIsolation",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 31
+  },
+  "last": 31,
+  "name": "LocalStorageCapacityIsolationFSQuotaMonitoring",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 31
+  },
+  "last": 31,
+  "name": "LogarithmicScaleDown",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24
+  },
+  "last": 24,
+  "name": "LoggingAlphaOptions",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 24
+  },
+  "last": 24,
+  "name": "LoggingBetaOptions",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "ManifestBasedAdmissionControlConfig",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "MatchLabelKeysInPodAffinity",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27
+  },
+  "last": 27,
+  "name": "MatchLabelKeysInPodTopologySpread",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "MatchLabelKeysInPodTopologySpreadSelectorMerge",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24,
+   "beta": 35
+  },
+  "last": 37,
+  "name": "MaxUnavailableStatefulSet",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "MemoryManager",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "MemoryQoS",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24,
+   "beta": 25,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "MinDomainsInPodTopologySpread",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "MinimizeIPTablesRestore",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 24,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "MixedProtocolLBService",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "deprecated": 17
+  },
+  "last": 17,
+  "name": "MountContainers",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 10,
+   "stable": 12
+  },
+  "last": 14,
+  "name": "MountPropagation",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25
+  },
+  "last": 28,
+  "name": "MultiCIDRRangeAllocator",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "MultiCIDRServiceAllocator",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "MutableCSINodeAllocatableCount",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35
+  },
+  "last": 35,
+  "name": "MutablePVNodeAffinity",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "MutablePodResourcesForSuspendedJobs",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "MutableSchedulingDirectivesForSuspendedJobs",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 34,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "MutatingAdmissionPolicy",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "NFTablesProxyMode",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 21,
+   "stable": 22
+  },
+  "last": 23,
+  "name": "NamespaceDefaultLabelName",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "NativeHistograms",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "NetworkPolicyEndPort",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24
+  },
+  "last": 27,
+  "name": "NetworkPolicyStatus",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "NewVolumeManagerReconstruction",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "NodeDeclaredFeatures",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 19,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "NodeDisruptionExclusion",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 26,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "NodeInclusionPolicyInPodTopologySpread",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 14,
+   "stable": 17
+  },
+  "last": 23,
+  "name": "NodeLease",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "NodeLifecycleConditions",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 30,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "NodeLogQuery",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24,
+   "beta": 26,
+   "stable": 28
+  },
+  "last": 31,
+  "name": "NodeOutOfServiceVolumeDetach",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 28,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "NodeSwap",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "NominatedNodeNameForExpectation",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 19,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "NonPreemptingPriority",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 24
+  },
+  "last": 24,
+  "name": "OpenAPIEnums",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 24,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "OpenAPIV3",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 35
+  },
+  "last": 35,
+  "name": "OpportunisticBatching",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 30,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "OrderedNamespaceDeletion",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "PDBUnhealthyPodEvictionPolicy",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "deprecated": 10
+  },
+  "last": 10,
+  "name": "PVCProtection",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 7,
+   "beta": 10,
+   "stable": 14
+  },
+  "last": 16,
+  "name": "PersistentLocalVolumes",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "PersistentVolumeClaimUnusedSinceTime",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 31
+  },
+  "last": 32,
+  "name": "PersistentVolumeLastPhaseTransitionTime",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "PodAffinityNamespaceSelector",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "PodAndContainerStatsFromCRI",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 35,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "PodCertificateRequest",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22
+  },
+  "last": 22,
+  "name": "PodDeletionCost",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 3,
+   "beta": 5,
+   "stable": 21
+  },
+  "last": 25,
+  "name": "PodDisruptionBudget",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 26,
+   "stable": 31
+  },
+  "last": 33,
+  "name": "PodDisruptionConditions",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "PodGroupPreemptionPolicy",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25
+  },
+  "last": 27,
+  "name": "PodHasNetworkCondition",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "PodHostIPs",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 28,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "PodIndexLabel",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "PodLevelResourceManagers",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 34
+  },
+  "last": 34,
+  "name": "PodLevelResources",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "PodLifecycleSleepAction",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 33,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "PodLifecycleSleepActionAllowZero",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32
+  },
+  "last": 32,
+  "name": "PodLogsQuerySplitStreams",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34,
+   "stable": 35
+  },
+  "last": 35,
+  "name": "PodObservedGenerationTracking",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 18,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "PodOverhead",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 11,
+   "stable": 14
+  },
+  "last": 18,
+  "name": "PodPriority",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 12,
+   "stable": 14
+  },
+  "last": 16,
+  "name": "PodReadinessGates",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "PodReadyToStartContainersCondition",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 30
+  },
+  "last": 30,
+  "name": "PodSchedulingReadiness",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 23,
+   "stable": 25
+  },
+  "last": 27,
+  "name": "PodSecurity",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 10,
+   "beta": 12,
+   "stable": 17
+  },
+  "last": 19,
+  "name": "PodShareProcessNamespace",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "PodTopologyLabelsAdmission",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "PodsAPI",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 31
+  },
+  "last": 31,
+  "name": "PortForwardWebsockets",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "PreferNominatedNode",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 34,
+   "stable": 35
+  },
+  "last": 35,
+  "name": "PreferSameTrafficDistribution",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "PreventStaticPodAPIReferences",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 28
+  },
+  "last": 28,
+  "name": "ProbeTerminationGracePeriod",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 31,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "ProcMountType",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 26,
+   "stable": 28
+  },
+  "last": 29,
+  "name": "ProxyTerminatingEndpoints",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11
+  },
+  "last": 11,
+  "name": "QOSReserved",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 8,
+   "stable": 10
+  },
+  "last": 10,
+  "name": "ReadOnlyAPIDataVolumes",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 27,
+   "stable": 29
+  },
+  "last": 30,
+  "name": "ReadWriteOncePod",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 32,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "RecoverVolumeExpansionFailure",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "RecursiveReadOnlyMounts",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33
+  },
+  "last": 33,
+  "name": "ReduceDefaultCrashLoopBackOffDecay",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 33,
+   "stable": 34
+  },
+  "last": 36,
+  "name": "RelaxedDNSSearchValidation",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 32,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "RelaxedEnvironmentVariableValidation",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 34,
+   "beta": 36,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "RelaxedServiceNameValidation",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 31
+  },
+  "last": 31,
+  "name": "ReloadKubeletServerCertificateFile",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 16,
+   "stable": 29
+  },
+  "last": 32,
+  "name": "RemainingItemCount",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32
+  },
+  "last": 32,
+  "name": "RemoteRequestHeaderUID",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 20,
+   "stable": 24
+  },
+  "last": 29,
+  "name": "RemoveSelfLink",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "deprecated": 17
+  },
+  "last": 17,
+  "name": "RequestManagement",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 31,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "ResilientWatchCacheInitialization",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "ResourceHealthStatus",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "deprecated": 19
+  },
+  "last": 19,
+  "name": "ResourceLimitsPriorityFunction",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 12,
+   "stable": 17
+  },
+  "last": 18,
+  "name": "ResourceQuotaScopeSelectors",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "RestartAllContainersOnContainerExits",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 26,
+   "stable": 28
+  },
+  "last": 28,
+  "name": "RetroactiveDefaultStorageClass",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 31,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "RetryGenerateName",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 13,
+   "beta": 20,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "RootCAConfigMap",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 8,
+   "stable": 19
+  },
+  "last": 21,
+  "name": "RotateKubeletClientCertificate",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 7,
+   "beta": 12
+  },
+  "last": 12,
+  "name": "RotateKubeletServerCertificate",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 14,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "RunAsGroup",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 14,
+   "stable": 20
+  },
+  "last": 24,
+  "name": "RuntimeClass",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29
+  },
+  "last": 29,
+  "name": "RuntimeClassInImageCriApi",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 19,
+   "stable": 20
+  },
+  "last": 22,
+  "name": "SCTPSupport",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 33,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "SELinuxChangePolicy",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 33,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "SELinuxMount",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25,
+   "beta": 27,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "SELinuxMountReadWriteOncePod",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 12,
+   "stable": 17
+  },
+  "last": 18,
+  "name": "ScheduleDaemonSetPods",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "SchedulerAsyncAPICalls",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 33
+  },
+  "last": 33,
+  "name": "SchedulerAsyncPreemption",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 33
+  },
+  "last": 33,
+  "name": "SchedulerPopFromBackoffQ",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 28,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "SchedulerQueueingHints",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 25,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "SeccompDefault",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27
+  },
+  "last": 29,
+  "name": "SecurityContextDeny",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 19,
+   "stable": 20
+  },
+  "last": 25,
+  "name": "SelectorIndex",
+  "removed": true
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "beta": true,
+   "deprecated": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 28,
+   "deprecated": 33
+  },
+  "last": 33,
+  "name": "SeparateCacheWatchRPC",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 29,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "SeparateTaintEvictionController",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 16,
+   "stable": 22
+  },
+  "last": 31,
+  "name": "ServerSideApply",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 25,
+   "stable": 27
+  },
+  "last": 31,
+  "name": "ServerSideFieldValidation",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 20,
+   "stable": 21
+  },
+  "last": 23,
+  "name": "ServiceAccountIssuerDiscovery",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 32
+  },
+  "last": 33,
+  "name": "ServiceAccountNodeAudienceRestriction",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "ServiceAccountTokenJTI",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "ServiceAccountTokenNodeBinding",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "ServiceAccountTokenNodeBindingValidation",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "ServiceAccountTokenPodNodeInfo",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 18,
+   "beta": 19,
+   "stable": 20
+  },
+  "last": 22,
+  "name": "ServiceAppProtocol",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 24,
+   "beta": 25,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "ServiceIPStaticSubrange",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "ServiceInternalTrafficPolicy",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "ServiceLBNodePortControl",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "ServiceLoadBalancerClass",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 16,
+   "stable": 17
+  },
+  "last": 20,
+  "name": "ServiceLoadBalancerFinalizer",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 19,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "ServiceNodeExclusion",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 28,
+   "stable": 29
+  },
+  "last": 30,
+  "name": "ServiceNodePortStaticSubrange",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 17,
+   "deprecated": 20
+  },
+  "last": 22,
+  "name": "ServiceTopology",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 31,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "ServiceTrafficDistribution",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 20,
+   "stable": 22
+  },
+  "last": 24,
+  "name": "SetHostnameAsFQDN",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "ShardedListAndWatch",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 29,
+   "stable": 33
+  },
+  "last": 33,
+  "name": "SidecarContainers",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "SizeBasedListCostEstimate",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20,
+   "beta": 22,
+   "stable": 32
+  },
+  "last": 34,
+  "name": "SizeMemoryBackedVolumes",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "deprecated": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "deprecated": 29
+  },
+  "last": 30,
+  "name": "SkipReadOnlyValidationGCE",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 27,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "StableLoadBalancerNodeSet",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "StaleControllerConsistencyDaemonSet",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "StaleControllerConsistencyJob",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "StaleControllerConsistencyReplicaSet",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "StaleControllerConsistencyStatefulSet",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 18,
+   "stable": 20
+  },
+  "last": 23,
+  "name": "StartupProbe",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 23,
+   "beta": 27,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "StatefulSetAutoDeletePVC",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 23,
+   "stable": 25
+  },
+  "last": 26,
+  "name": "StatefulSetMinReadySeconds",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "StatefulSetRecreateStrategy",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 27,
+   "stable": 31
+  },
+  "last": 31,
+  "name": "StatefulSetStartOrdinal",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "StorageCapacityScoring",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "beta": true,
+   "deprecated": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 30,
+   "deprecated": 33
+  },
+  "last": 33,
+  "name": "StorageNamespaceIndex",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 10,
+   "stable": 11
+  },
+  "last": 24,
+  "name": "StorageObjectInUseProtection",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 20
+  },
+  "last": 20,
+  "name": "StorageVersionAPI",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 15
+  },
+  "last": 15,
+  "name": "StorageVersionHash",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 30,
+   "beta": 35
+  },
+  "last": 35,
+  "name": "StorageVersionMigrator",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 33,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "StreamingCollectionEncodingToJSON",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "StreamingCollectionEncodingToProtobuf",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": false,
+   "deprecated": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 5,
+   "deprecated": 18
+  },
+  "last": 24,
+  "name": "StreamingProxyRedirects",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 30,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "StrictCostEnforcementForVAP",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 31,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "StrictCostEnforcementForWebhooks",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 33,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "StrictIPCIDRValidation",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "StructuredAuthenticationConfiguration",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "StructuredAuthenticationConfigurationEgressSelector",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 35
+  },
+  "last": 35,
+  "name": "StructuredAuthenticationConfigurationJWKSMetrics",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "StructuredAuthorizationConfiguration",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 31,
+   "beta": 33
+  },
+  "last": 33,
+  "name": "SupplementalGroupsPolicy",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 9,
+   "stable": 11
+  },
+  "last": 20,
+  "name": "SupportIPVSProxyMode",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 15,
+   "stable": 20
+  },
+  "last": 23,
+  "name": "SupportNodePidsLimit",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 10,
+   "beta": 14,
+   "stable": 20
+  },
+  "last": 23,
+  "name": "SupportPodPidsLimit",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 22,
+   "stable": 24
+  },
+  "last": 25,
+  "name": "SuspendJob",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 11,
+   "stable": 21
+  },
+  "last": 22,
+  "name": "Sysctls",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 32
+  },
+  "last": 32,
+  "name": "SystemdWatchdog",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 21,
+   "stable": 23
+  },
+  "last": 24,
+  "name": "TTLAfterFinished",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 6,
+   "beta": 13,
+   "stable": 18
+  },
+  "last": 20,
+  "name": "TaintBasedEvictions",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 8,
+   "beta": 12,
+   "stable": 17
+  },
+  "last": 18,
+  "name": "TaintNodesByCondition",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35
+  },
+  "last": 35,
+  "name": "TaintTolerationComparisonOperators",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 10,
+   "beta": 12,
+   "stable": 20
+  },
+  "last": 21,
+  "name": "TokenRequest",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 11,
+   "beta": 12,
+   "stable": 20
+  },
+  "last": 21,
+  "name": "TokenRequestProjection",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 34
+  },
+  "last": 34,
+  "name": "TokenRequestServiceAccountUIDValidation",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21,
+   "beta": 23,
+   "stable": 33
+  },
+  "last": 35,
+  "name": "TopologyAwareHints",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "TopologyAwareWorkloadScheduling",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 18,
+   "stable": 27
+  },
+  "last": 28,
+  "name": "TopologyManager",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26
+  },
+  "last": 26,
+  "name": "TopologyManagerPolicyAlphaOptions",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 26
+  },
+  "last": 28,
+  "name": "TopologyManagerPolicyBetaOptions",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 28,
+   "stable": 32
+  },
+  "last": 32,
+  "name": "TopologyManagerPolicyOptions",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 30
+  },
+  "last": 30,
+  "name": "TranslateStreamCloseWebsocketRequests",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 28
+  },
+  "last": 29,
+  "name": "UnauthenticatedHTTP2DOSMitigation",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 36
+  },
+  "last": 36,
+  "name": "UnknownVersionInteroperabilityProxy",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 36
+  },
+  "last": 36,
+  "name": "UnlockWhileProcessingFIFO",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35
+  },
+  "last": 35,
+  "name": "UserNamespacesHostNetworkSupport",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29
+  },
+  "last": 34,
+  "name": "UserNamespacesPodSecurityStandards",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 25
+  },
+  "last": 27,
+  "name": "UserNamespacesStatelessPodsSupport",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 28,
+   "beta": 30,
+   "stable": 36
+  },
+  "last": 36,
+  "name": "UserNamespacesSupport",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "deprecated": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 14,
+   "deprecated": 22
+  },
+  "last": 24,
+  "name": "ValidateProxyRedirects",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "beta": 28,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "ValidatingAdmissionPolicy",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": false,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 29,
+   "beta": 31,
+   "stable": 34
+  },
+  "last": 36,
+  "name": "VolumeAttributesClass",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 37
+  },
+  "last": 37,
+  "name": "VolumeBindMountOptions",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 21
+  },
+  "last": 32,
+  "name": "VolumeCapacityPriority",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 35,
+   "beta": 37
+  },
+  "last": 37,
+  "name": "VolumeLimitScaling",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 16,
+   "stable": 18
+  },
+  "last": 21,
+  "name": "VolumePVCDataSource",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 9,
+   "beta": 10,
+   "stable": 13
+  },
+  "last": 16,
+  "name": "VolumeScheduling",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 12,
+   "beta": 17,
+   "stable": 20
+  },
+  "last": 22,
+  "name": "VolumeSnapshotDataSource",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "stable": true
+  },
+  "entry": "stable",
+  "first": {
+   "stable": 10
+  },
+  "last": 24,
+  "name": "VolumeSubpath",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 15,
+   "stable": 17
+  },
+  "last": 24,
+  "name": "VolumeSubpathEnvExpansion",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": true,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 19,
+   "stable": 22
+  },
+  "last": 24,
+  "name": "WarningHeaders",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 15,
+   "beta": 16,
+   "stable": 17
+  },
+  "last": 32,
+  "name": "WatchBookmark",
+  "removed": true
+ },
+ {
+  "current": "stable",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 31,
+   "stable": 37
+  },
+  "last": 37,
+  "name": "WatchCacheInitializationPostStartHook",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "beta": false,
+   "deprecated": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 30,
+   "deprecated": 33
+  },
+  "last": 33,
+  "name": "WatchFromStorageWithoutResourceVersion",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 27,
+   "beta": 32
+  },
+  "last": 34,
+  "name": "WatchList",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": false
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 30
+  },
+  "last": 35,
+  "name": "WatchListClient",
+  "removed": false
+ },
+ {
+  "current": "beta",
+  "default": {
+   "beta": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 37
+  },
+  "last": 37,
+  "name": "WatchListCompression",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 33,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "WinDSR",
+  "removed": false
+ },
+ {
+  "current": "stable",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 20,
+   "stable": 34
+  },
+  "last": 34,
+  "name": "WinOverlay",
+  "removed": false
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32
+  },
+  "last": 32,
+  "name": "WindowsCPUAndMemoryAffinity",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 19,
+   "beta": 21,
+   "stable": 22
+  },
+  "last": 24,
+  "name": "WindowsEndpointSliceProxying",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 14,
+   "beta": 16,
+   "stable": 18
+  },
+  "last": 18,
+  "name": "WindowsGMSA",
+  "removed": true
+ },
+ {
+  "current": "beta",
+  "default": {
+   "alpha": false,
+   "beta": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 32,
+   "beta": 34
+  },
+  "last": 34,
+  "name": "WindowsGracefulNodeShutdown",
+  "removed": false
+ },
+ {
+  "current": "deprecated",
+  "default": {
+   "alpha": true,
+   "deprecated": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 26,
+   "deprecated": 33
+  },
+  "last": 33,
+  "name": "WindowsHostNetwork",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 22,
+   "beta": 23,
+   "stable": 26
+  },
+  "last": 27,
+  "name": "WindowsHostProcessContainers",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false,
+   "beta": true,
+   "stable": true
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 16,
+   "beta": 17,
+   "stable": 18
+  },
+  "last": 20,
+  "name": "WindowsRunAsUserName",
+  "removed": true
+ },
+ {
+  "current": "removed",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "WorkloadAwarePreemption",
+  "removed": true
+ },
+ {
+  "current": "alpha",
+  "default": {
+   "alpha": false
+  },
+  "entry": "alpha",
+  "first": {
+   "alpha": 36
+  },
+  "last": 36,
+  "name": "WorkloadWithJob",
+  "removed": false
+ },
+ {
+  "current": "removed",
+  "default": {
+   "beta": false,
+   "stable": true
+  },
+  "entry": "beta",
+  "first": {
+   "beta": 29,
+   "stable": 30
+  },
+  "last": 31,
+  "name": "ZeroLimitedNominalConcurrencyShares",
+  "removed": true
+ }
+]
